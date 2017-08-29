@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Car_Booking</string>
+    <string name="scorp">No. of seats : 8+1 \n6hrs - Rs.500 \n12hrs -Rs.900 \n1 day - Rs.1750</string>
+    <string name="verna">"No. of seats- 4+1 \n6hrs - Rs.400 \n12hrs -Rs.750 \n1 day - Rs.1450"</string>
+    <string name="light">No. of seats- 4+1 \n 6hrs - Rs.300 \n12hrs -Rs.550 \n1 day - Rs.1000</string>
+    <string name="cool">No. of seats- 8+1 \n6hrs - Rs.600 \n12hrs -Rs.1200 \n1 day - Rs.2300</string>
+    <string name="fine">No. of seats- 5+1 \n6hrs - Rs.400 \n12hrs -Rs.750 \n1 day - Rs.1450</string>
+    <string name="look">No. of seats : 4+1 \n6hrs - Rs.600 \n12hrs -Rs.1000 \n1 day - Rs.1950</string>
+</resources>
